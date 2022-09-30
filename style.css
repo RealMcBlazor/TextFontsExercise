@@ -28,7 +28,7 @@ h2{
 }
 li{
   font-size: 1rem;
-  padding-top: 2%;
+  line-height: 2;
 }
 #characters {
   font-size: 18px;
